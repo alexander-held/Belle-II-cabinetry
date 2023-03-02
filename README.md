@@ -10,7 +10,7 @@ This tutorial provides an overview of `cabinetry` and shows its use in the creat
 
 ## How to run
 
-You can run the `talk.ipynb` notebook in this repository via the Binder logo at the top of this file.
+You can run the `talk.ipynb` notebook in this repository via the Binder logo at the top of this file. The evaluated/ folder contains a copy of the notebook with all cells evaluated.
 
 ## Further resources
 - `cabinetry` on GitHub: https://github.com/scikit-hep/cabinetry/
