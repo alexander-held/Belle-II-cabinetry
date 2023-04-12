@@ -1,5 +1,5 @@
-cabinetry[contrib]==0.5.1
-pyhf[tensorflow,contrib]==0.7.0
+cabinetry[contrib]==0.5.2
+pyhf[tensorflow,contrib]==0.7.1
 hist[plot]==2.6.3
 # Ensure Jupyter notebook
 jupyter~=1.0
